@@ -1,1 +1,1 @@
-{"versioning":{"latest":"0.9.0"},"versions":{"0.9.0":["select.js"]},"root":"arale","name":"select","tag":"","lastUpdated":1352355064238}
+{"versioning":{"latest":"0.9.0"},"versions":{"0.9.0":["select.js"]},"root":"arale","name":"select","tag":"widget","lastUpdated":1352356514979,"type":"","description":"模拟 select 的组件"}
